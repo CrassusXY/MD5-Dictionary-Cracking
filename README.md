@@ -1,7 +1,7 @@
 # MD5 Dictionary attack
 
 ## Given task
-My task was to implement multithread dictionary attack program.
+My task was to implement a dictionary attack program using multiple threads. I decided to use jthread from c++20.
 
 https://kcir.pwr.edu.pl/~witold/opsys/opsysA_23.html
 
