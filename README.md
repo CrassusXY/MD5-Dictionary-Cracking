@@ -1,4 +1,4 @@
-# Task scheduling algorithm
+# MD5 Dictionary attack
 
 ## Given task
 My task was to implement multithread dictionary attack program.
